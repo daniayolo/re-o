@@ -1,0 +1,20 @@
+.tito:hover {
+  color: var(--bs-blue);
+  background-color: var(--bs-red);
+}
+
+.card-body:hover {
+  color: var(--bs-blue);
+  background-color: var(--bs-red);
+}
+
+p:hover {
+  color: var(--bs-blue);
+  background-color: var(--bs-red);
+}
+
+h1:hover {
+  color: var(--bs-blue);
+  background-color: var(--bs-red);
+}
+
